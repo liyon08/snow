@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@font-face {
+    font-family: 'Facinate Inline';
+    src: url(../fonts/fascinateinline-regular-webfont.woff2);
+}
+.blue{
+    color:blue;
+    
+}
+.red{
+    color:red;
+}
+.uppercase{
+    color:blue;
+    text-transform: uppercase;
+}
+
+body{
+    background-image: url(../images/snowflakes.jpg);
+    /*background-repeat: no-repeat;
+    background-size: contain;*/
+}
+
+.header{
+    background-color: aqua;
+    background-image: url(../images/winter-tree.jpg);
+    /*background-repeat: no-repeat;
+    background-size: contain;*/
+}
+h1{
+    font-family: 'Facinate Inline', sans-serif;
+    font-size:8rem;
+    text-align: center;
+    line-height: 2;
+    color: red;
+}
+
+p{
+    font-family: 'peralta', serif;
+    font-size: 1.7rem;
+}
